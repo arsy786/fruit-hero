@@ -39,4 +39,4 @@ To get the app running on your local machine, follow these steps:
    npm run dev
    ```
 
-This command starts the Vite development server. Open your browser and go to http://localhost:3000 to view the app.
+This command starts the Vite development server. Open your browser and go to http://localhost:5173 to view the app.
