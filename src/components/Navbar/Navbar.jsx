@@ -1,4 +1,3 @@
-import React from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 
 // eslint-disable-next-line react/prop-types

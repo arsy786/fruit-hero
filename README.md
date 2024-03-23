@@ -8,8 +8,7 @@ This project was built following the [Responsive Website Design Using ReactJS an
 
 Before you begin, ensure you have the following installed on your system:
 
-- [Node.js](https://nodejs.org/) (version 18 or newer)
-- [npm](https://www.npmjs.com/) (version 8 or newer)
+- Node.js (18.0.0)
 
 ## Getting Started
 

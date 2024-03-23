@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 import HeroImg from "../../assets/strawberry.png";
 import Navbar from "../Navbar/Navbar";
